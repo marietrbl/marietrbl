@@ -1,8 +1,8 @@
 <h3>Oi, eu sou a Marie! 🌸</h3>
 <div align="center">
   <a href="https://github.com/marietrbl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marietrbl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marietrbl&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marietrbl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marietrbl&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
